@@ -10,6 +10,10 @@ body {
   width: 30%
 }
 
+p {
+  font-size: large;
+}
+
  select {
  	color: red;
  }
