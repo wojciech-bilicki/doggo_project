@@ -1,6 +1,6 @@
 import { format } from 'date-fns'
 
-const DATE_TIME_FORMAT = "yyyy-MM-dd HH:mm:ss"
+const DATE_TIME_FORMAT = "yyyy-MM-dd HH:mm"
 
 const startTheTimer = () => {
   const timerSpan = document.querySelector('.timer')
