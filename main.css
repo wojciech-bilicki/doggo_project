@@ -7,5 +7,9 @@ body {
 }
 
 .doggo-image {
-  width: 50%;
+  width: 50%
 }
+
+ select {
+ 	color: red;
+ }
