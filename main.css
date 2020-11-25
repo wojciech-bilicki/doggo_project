@@ -13,3 +13,7 @@ body {
  select {
  	color: red;
  }
+
+ span {
+   color: blueviolet
+ }
