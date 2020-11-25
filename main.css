@@ -13,3 +13,8 @@ body {
  select {
  	color: red;
  }
+
+ span {
+   color: blueviolet;
+   background-color: cornsilk;;
+ }
