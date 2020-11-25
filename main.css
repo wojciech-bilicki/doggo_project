@@ -15,5 +15,6 @@ body {
  }
 
  span {
-   color: blueviolet
+   color: blueviolet;
+   background-color: cornsilk;;
  }
